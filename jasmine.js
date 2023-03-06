@@ -1,11 +1,16 @@
-function flames(name1,name2){
-    let nm1 = name1.split("")
-    let nm2 = name2.split("")
+let count = 8
+let fl = "flames"
 
-    let nm1l = name1.length
-    let nm2l = name2.length
+let fllen = fl.length
 
-    let len = nm1l + nm2l
 
+let res1 = []
+let res2 = []
+
+for(let i=0;i<fl.length;i++){
+    if(){
+
+    }else{
+        
+    }
 }
-flames("jeeva","jasmine")
